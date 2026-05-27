@@ -2,10 +2,7 @@
 
 ## Información del estudiante
 
-**Nombre:** Alejandra  
-**Código:** [Escribe aquí tu código de estudiante]  
-**Repositorio GitHub:** [Pega aquí el enlace del repositorio]  
-**Video demostrativo:** [Pega aquí el enlace del video]  
+**Nombre:** Alejandra Santamaria
 
 ---
 
